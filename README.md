@@ -1,7 +1,11 @@
 ## Hi there 👋
+<p align="center">
+  <img src="./0506" alt="Banner César Tlapanco" width="100%">
+</p>
+
 
 <!--
-**Tlapsi/Tlapsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tlapsi/Tlapsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.0506.gif
 
 Here are some ideas to get you started:
 
