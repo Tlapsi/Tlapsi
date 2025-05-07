@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Hola, soy **César Tlapanco**, Ingeniero en Sistemas Computacionales y apasionado del análisis de datos, automatización y programación. Actualmente trabajo como **Analista Programador** en DISH/MVS Televisión y estoy en formación continua para crecer como **Data Analyst y Data Engineer**.
+Hola, soy **Cesar Tlapanco**, Ingeniero en Sistemas Computacionales y apasionado del análisis de datos, automatización y programación. Actualmente trabajo como **Analista Programador** en DISH/MVS Televisión y estoy en formación continua para crecer como **Data Analyst y Data Engineer**.
 
 ---
 
