@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="./0506" alt="Banner César Tlapanco" width="100%">
+  <img src="./0506.gif" alt="Banner César Tlapanco" width="100%">
 </p>
 
 
