@@ -48,4 +48,4 @@ Me gustan los videojuegos, la tecnología, y resolver problemas con código.
 ## 📫 Contacto
 
 - 📧 cesartlapanco.m@gmail.com
-- 💼 [LinkedIn (](https://linkedin.com/in/cesar-gabriel-tlapanco-melo/)
+- 💼 [LinkedIn](https://linkedin.com/in/cesar-gabriel-tlapanco-melo/)
